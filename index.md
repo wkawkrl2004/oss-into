@@ -60,10 +60,11 @@
 ---
 
 ## 📜 자격증
-- SQLD (SQL Developer) | 한국데이터산업진흥원  
+- SQLD (SQL Developer)
 - AWS Certified Cloud Practitioner  
 - 정보처리기사 (필기 합격)
-- ADsP(데이터분석준전문가) | 한국데이터산업진흥원
+- ADsP(Advanced Data Analytics Semi-Professional)
+
 ---
 
 ## 🏆 수상
