@@ -1,8 +1,8 @@
 # 미래의 이력서(Future CV)
 
----
 
-## 김경민
+## 기본 정보
+  **이름**: 김경민  
 📧 **Email**: rabbitcar2004@naver.com  
 💼 **희망직무**: 백엔드 개발자 (신입)  
 🔗 **Portfolio**: [https://kkm-portfolio.dev](https://kkm-portfolio.dev)  
