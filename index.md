@@ -4,7 +4,6 @@
 💼 **희망직무**: 백엔드 개발자 (신입)  
 🔗 **Portfolio**: [https://kkm-portfolio.dev](https://kkm-portfolio.dev)  
 🐙 **GitHub**: [https://github.com/wkawkrl2004](https://github.com/wkawkrl2004)
-💼 **LinkedIn**: [https://linkedin.com/in/wkawkrl2004](https://linkedin.com/in/wkawkrl2004)
 
 ---
 
@@ -82,7 +81,4 @@
 
 ---
 
-## 🌱 기타 링크
-- 📘 **개발 블로그**: [https://blog.kkm-Developer.dev](https://blog.kkm-Developer.dev)  
-- 📝 **기술 정리 노트**: [https://notion.so/kkm-Developer](https://notion.so/kkm-Developer)
-``
+## 추천인 (References)
